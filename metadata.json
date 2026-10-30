@@ -1,0 +1,6 @@
+{
+  "name": "The Motivation - Session Management",
+  "description": "Interactive therapy and educational session management system with role-based access for Admin, Teachers, and Secretary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
